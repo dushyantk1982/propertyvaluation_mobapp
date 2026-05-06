@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_engineer_profile"
+        android:title="Profile" />
+    <item
+        android:id="@+id/action_logout"
+        android:title="Logout" />
+
+    <item
+        android:id="@+id/action_exit_app"
+        android:title="Exit App" />
+</menu>

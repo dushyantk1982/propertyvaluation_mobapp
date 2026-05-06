@@ -1,0 +1,22 @@
+<resources>
+    <color name="sky_blue_primary">#497085</color>
+    <color name="sky_blue_primary_variant">#6F8E9D</color>
+    <color name="sky_blue_secondary">#ADD8E6</color>
+    <color name="sky_blue_secondary_variant">#B0E0E6</color>
+    <color name="sky_blue_light">#B3E5FC</color>
+    <color name="sky_blue_dark">#0288D1</color>
+    <color name="sky_blue_accent">#40C4FF</color>
+    <color name="sky_blue_background">#E1F5FE</color>
+    <color name="sky_blue_surface">#E0F7FA</color>
+    <color name="sky_blue_on_primary">#FFFFFF</color>
+    <color name="sky_blue_on_secondary">#000000</color>
+    <color name="sky_blue_on_background">#000000</color>
+    <color name="sky_blue_on_surface">#000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="editbox">#EFFAFAFA</color>
+    <color name="border_color">#FF0000</color>
+    <color name="npa">#FFFFCC</color>
+    <color name="priority">#FF8080</color>
+
+</resources>
